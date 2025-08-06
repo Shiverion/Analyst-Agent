@@ -31,7 +31,7 @@ Follow these steps to run the application on your own machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/gradio-data-agent.git](https://github.com/your-username/gradio-data-agent.git)
+git clone [https://github.com/Shiverion/Analyst-Agent.git](https://github.com/Shiverion/Analyst-Agent.git)
 cd gradio-data-agent
 ```
 
